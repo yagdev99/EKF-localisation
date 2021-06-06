@@ -2,9 +2,9 @@
 ## Overview:
 
 ### Localization:
-```
-Localization is the process of determining the position or the state of a robot with respect to the enviroment.
-```
+
+> Localization is the process of determining the position or the state of a robot with respect to the enviroment.
+
 
 ### Provided Dataset:
 Data provided in the [data.pickle](Resources/data.pickle):
