@@ -1,9 +1,9 @@
-# Localization 
+# Localisation 
 ## Overview:
 
-### Localization:
+### Localisation:
 
-> Localization is the process of determining the position or the state of a robot with respect to the enviroment.
+> Localisation is the process of determining the position or the state of a robot with respect to the enviroment.
 
 
 ### Provided Dataset:
